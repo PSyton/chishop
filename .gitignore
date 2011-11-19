@@ -24,3 +24,7 @@ downloads
 chishop/media/dists/*
 chishop/haystack/*
 chishop/settings.py
+chishop/.conf
+chishop/.env
+chishop/logs
+chishop/static
